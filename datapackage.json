@@ -1,0 +1,14 @@
+{
+    "name": "ddf--ihme--global_burden_disease_cancer_incidence",
+    "author": "Gapminder",
+    "description": "Global Burden of Disease Cancer Incidence",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "CC-BY-4.0",
+    "title": "Global Burden of Disease Cancer Incidence",
+    "version": "0.0.1",
+    "resources": []
+}
